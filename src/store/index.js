@@ -1,4 +1,6 @@
-import { createStore } from 'vuex';
+import {
+  createStore
+} from 'vuex';
 
 import coachesModule from './modules/coaches/index.js';
 import requestsModule from './modules/requests/index.js';
