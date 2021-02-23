@@ -20,5 +20,14 @@ npm run build
 npm run lint
 ```
 
+### Changing Async Component
+```
+const CoachDetail = defineAsyncComponent(() =>
+  import('./pages/coaches/CoachDetail.vue')
+);
+```
+```
+const CoachDetail = () => import('./pages/coaches/CoachDetail.vue');
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
