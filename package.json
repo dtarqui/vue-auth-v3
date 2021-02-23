@@ -1,5 +1,6 @@
 {
   "name": "vue-coach-project",
+  "author": "Fhulano",
   "version": "0.1.0",
   "private": true,
   "scripts": {

@@ -1,4 +1,7 @@
-# vue-coach-project
+# Vue v3: Find A coach
+
+## Description
+Vue project with authentication
 
 ## Project setup
 ```
